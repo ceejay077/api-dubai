@@ -1,0 +1,5 @@
+import opentracing
+
+# openai api payed : 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
+
+# replicate api : r8_FIQ5NauE0NedON3Zo0ZOwa1LJakDtXS3O
